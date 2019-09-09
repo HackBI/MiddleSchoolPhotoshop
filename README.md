@@ -10,15 +10,23 @@ Photoshop is a graphics editor software. It is used by designers, web developers
 By the end of this workshop, participants should know how to edit an image, be familiar with selection tools and shortcut keys, know how to add layers and layer effects, and be able to repair and enhance an image/photo.
 
 ## Goal
-Design an app logo. 
+Follow the steps and create a design. At the end, be able to know the basics of Photoshop. 
 
 ## Challenges
-1.  The "Goal" of the workshop broken down into more concrete steps.
+* Identify the major areas of the Photoshop workspace, including the menu bar and context menus, options bar, toolbox, palettes, and document window(s).
+* Explore Photoshop Help, and use it to find out more about the tools in the Toolbox.
+* Manipulate and customize palettes.
+* Open and navigate a Photoshop document with menu commands, the Zoom and Hand tools, and the
+Navigator palette.
+* Create a layered Photoshop document from a starting image (provided).
+* Use Undo commands and the History palette to reverse document changes.
+* Print a Photoshop document by configuring the Photoshop Print dialog box.
+* Save a copy of the print-quality document for fast online transmissio
 
 ## Cheat Sheet
 ![](https://digitalworkshopcenter.com/wp-content/uploads/2015/03/Photoshop-Cheat-Sheet_Feat-Image.jpg)
 
 ## Resources for Further Learning
-Provide plenty of sources, YouTube videos/channels/playlists, documentation, wikis, etc.
-* HackBI GitHub Workshop: https://github.com/hackbi/githubworkshop
-* GitHub Flavored Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* How to Create Graphic Art: https://www.youtube.com/watch?v=U1UJn4MD4_c
+* How to Make a Logo: https://www.youtube.com/watch?v=NVKju7nZvDI
+* Photoshop for Beginners: https://www.youtube.com/watch?v=dVzKvfqKIEA
