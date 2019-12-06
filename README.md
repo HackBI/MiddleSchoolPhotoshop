@@ -23,9 +23,6 @@ Navigator palette.
 * Print a Photoshop document by configuring the Photoshop Print dialog box.
 * Save a copy of the print-quality document for fast online transmissio
 
-## Cheat Sheet
-![](https://digitalworkshopcenter.com/wp-content/uploads/2015/03/Photoshop-Cheat-Sheet_Feat-Image.jpg)
-
 ## Resources for Further Learning
 * How to Create Graphic Art: https://www.youtube.com/watch?v=U1UJn4MD4_c
 * How to Make a Logo: https://www.youtube.com/watch?v=NVKju7nZvDI
